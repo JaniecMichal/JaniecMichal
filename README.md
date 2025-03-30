@@ -47,4 +47,5 @@ To become a **well-rounded fullstack developer** who approaches software with a 
 
 ---
 
-📫 **Let's connect!** Whether you want to collaborate, discuss tech, or share insights — feel free to reach out!
+📫 **Let's connect!** Whether you want to collaborate, discuss tech, or share insights — feel free to reach out! 
+Here is my [linkedin](https://www.linkedin.com/in/janiecmichal) profile
